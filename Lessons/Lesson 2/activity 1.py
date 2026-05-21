@@ -8,6 +8,6 @@ print("I love icecream \n\n\n")
 # TASK 4: Pass multiple arguments for printing
 print("The sum of 5 and 6",5+6,"That's the sum")
 # TASK 5: "end" argument of Print Statement
-print("Happy", end="! ")
+print("Happy", end=" ")
 print("Birthday")
 # TASK 6: What happens with/without "end" argument
