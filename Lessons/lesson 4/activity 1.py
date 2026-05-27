@@ -19,3 +19,4 @@ sum = tree_1+tree_2+tree_3+tree_4+tree_5
 print(sum)
 average = sum/5
 print(average)
+
